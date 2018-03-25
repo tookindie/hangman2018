@@ -6,4 +6,4 @@ cmake_minimum_required (VERSION 3.8)
 project ("hangman2018")
 
 # Include sub-projects.
-add_subdirectory ("hangman2018")
+add_subdirectory ("src")
